@@ -1,7 +1,7 @@
 {
-  "name": "Xlicon-MD",
+  "name": "SNAPE-MD",
   "version": "3.0.5",
-  "description": "Xlicon-MD, A modular advanced wabot",
+  "description": "SNAPE-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
@@ -10,12 +10,12 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923142212383"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "SNAPE"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -35,22 +35,22 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "SNAPE_Mᴅ_V3"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "SNAPE-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   S N A P E"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "923142212383,923264476886"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
